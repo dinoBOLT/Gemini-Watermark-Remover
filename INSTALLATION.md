@@ -8,7 +8,10 @@ Follow these simple steps to install and use the Gemini Watermark Remover extens
 
 ### Step 1: Get the Code
 
-Clone the repository or download the ZIP file:
+You need to use **Git** to download this project. If you don't have Git installed, [download it here](https://www.google.com/search?q=https://git-scm.com/downloads) and install it (keep all default settings).
+
+1. Open your **Terminal** (Command Prompt or PowerShell on Windows, Terminal on Mac/Linux):
+2. Clone the repository or download the ZIP file:
 
 ```bash
 git clone https://github.com/dinoBOLT/Gemini-Watermark-Remover.git
