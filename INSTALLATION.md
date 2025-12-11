@@ -25,7 +25,7 @@ Since Git LFS is obsolete for this project, you must download the AI model manua
 
 **Download the model (`lama_fp32.onnx`):**
 
-👉 [Click here to download from Hugging Face](https://huggingface.co/your-username/gemini-watermark-remover/resolve/main/lama_fp32.onnx)
+👉 [Click here to download from Google Drive](https://drive.google.com/file/d/16cRZWEQyJFecg77ebUBXjFxAik0iFU_C/view?usp=sharing)
 
 **Place the file:**
 
